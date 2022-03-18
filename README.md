@@ -6,4 +6,4 @@ A chat app built with React-Native and Expo
 
 1. React Navigation
 2. Firebase
-3. Socket.io
+3. 100ms
